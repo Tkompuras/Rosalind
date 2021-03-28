@@ -1,0 +1,1 @@
+# A repository with all of my solution for Rosalind
